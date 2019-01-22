@@ -1,0 +1,25 @@
+{
+  "name": "aidai",
+  "version": "1.0.0",
+  "description": "aidai ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Yudian7/aidai.git"
+  },
+  "keywords": [
+    "aidai"
+  ],
+  "author": "Wang Yujing",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Yudian7/aidai/issues"
+  },
+  "homepage": "https://github.com/Yudian7/aidai#readme",
+  "dependencies": {
+    "mysql": "^2.16.0"
+  }
+}
